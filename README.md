@@ -8,7 +8,6 @@ This is my personal coding journal — a daily log of what I learn, build, strug
 
 Each log is saved in the `logs/` folder, using this format:
 
----
 
 ## ✅ What I include in each entry
 
