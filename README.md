@@ -1,20 +1,27 @@
 # 🧠 Coding Journal
 
-This is my personal coding journal — a daily log of what I learn, build, struggle with, and plan to explore next. It helps me stay consistent, reflect on my progress, and track how my skills grow over time.
+This is my personal coding journal — a log of what I learn, build, struggle with, and plan to explore next. It helps me stay consistent, reflect on my progress, and track how my skills grow over time.
 
 ---
 
 ## 📅 How it's organized
 
-Each log is saved in the `logs/` folder, using this format:
+- **Daily bullet notes** are stored in the `/daily-bullets/` folder – short, quick notes on what I did or learned that day.
+- **Weekly summaries** are stored in the `/weekly-logs/` folder – longer reflections that capture progress, struggles, and next steps.
 
+---
 
-## ✅ What I include in each entry
+## ✅ What I include
 
-- **What I did today** – Tasks, experiments, projects, problems solved
+### In daily bullets:
+- Quick 1–4 bullet points (what I did, learned, or got stuck on)
+- Optional notes, code, or reminders
+
+### In weekly logs:
+- **What I did this week** – Projects, exercises, time spent
 - **What I learned** – Key takeaways, concepts, syntax, tools
-- **Questions / Things to explore** – Stuff I’m curious about or stuck on
-- **Notes** – Reflections, random thoughts, next steps
+- **Questions / Things to explore** – Stuff I’m curious about or need to revisit
+- **Notes** – Reflections, next steps, random thoughts
 
 ---
 
