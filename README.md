@@ -7,7 +7,7 @@ This is my personal coding journal — a log of what I learn, build, struggle wi
 ## 📅 How it's organized
 
 - **Daily bullet notes** are stored in the `/daily-bullets/` folder – short, quick notes on what I did or learned that day.
-- **Weekly summaries** are stored in the `/weekly-logs/` folder – longer reflections that capture progress, struggles, and next steps.
+- **Weekly(ish) summaries** are stored in the `/weekly-logs/` folder – longer reflections that capture progress, struggles, and next steps.
 
 ---
 
