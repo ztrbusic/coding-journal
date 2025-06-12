@@ -1,6 +1,6 @@
-# 🧠 Coding Journal – 2025-06-11
+# 🧠 Weekly(ish) Coding Journal – 2025-06-11
 
-## ✅ What I did today
+## ✅ What I did
 - Published my first Python project to GitHub (`round-cake-calculator`)
 - Learned how to add a license to a repo (MIT License)
 - Set up GitHub Desktop to pull and push changes
