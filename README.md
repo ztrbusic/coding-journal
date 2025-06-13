@@ -14,7 +14,7 @@ This is my personal coding journal — a log of what I learn, build, struggle wi
 ## ✅ What I include
 
 ### In daily bullets:
-- Quick 1–4 bullet points (what I did, learned, or got stuck on)
+- Quick 1–5 bullet points (what I did, learned, or got stuck on)
 - Optional notes, code, or reminders
 
 ### In weekly logs:
